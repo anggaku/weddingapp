@@ -229,5 +229,4 @@
 
 Undangan.create([
                       {name: 'Ibu Widya Silfianti',jam_mulai: '10:00',jam_selesai: '12:00'},
-                      {name: 'Ibu Metty Mustikasari',jam_mulai: '10:00',jam_selesai: '12:00'}
                     ])
