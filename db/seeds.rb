@@ -228,5 +228,32 @@
 
 
 Undangan.create([
-                      {name: 'Ibu Widya Silfianti',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      {name: 'Forum Bersama Kita Bisa',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Keluarga Mbah Kalijo',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Keluarga Mbah Wir',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Kemis',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Mas Eko',jam_mulai: '08:00',jam_selesai: '10:00'},
+                      {name: 'Bapak/Ibu Kadek',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak M Fitri',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Mimin',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Cici',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Ibu Ely',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Pardi',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Bahtiar',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Asri',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Eka Confeed',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Zainul',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Haris',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Irwan',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu M Erwan',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Nurohmat',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Nanik',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Ibu Rohatta',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Samsu Rizal',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Eri Bramantyo',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Bandi',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Koladi',jam_mulai: '08:00',jam_selesai: '10:00'},
+                      {name: 'Ega Julia',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      {name: 'Andi Asnur Pranata M. H.',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      {name: 'Reni Diah Kusumawati',jam_mulai: '10:00',jam_selesai: '12:00'}
                     ])
