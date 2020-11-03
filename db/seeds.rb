@@ -251,14 +251,17 @@
 #                      {name: 'Bapak/Ibu Koladi',jam_mulai: '08:00',jam_selesai: '10:00'},
 #                      {name: 'Ega Julia',jam_mulai: '10:00',jam_selesai: '12:00'},
 #                      {name: 'Andi Asnur Pranata M. H.',jam_mulai: '10:00',jam_selesai: '12:00'},
-#                      {name: 'Reni Diah Kusumawati',jam_mulai: '10:00',jam_selesai: '12:00'}
+#                      {name: 'Reni Diah Kusumawati',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      # {name: 'Muhammad Syaefudin Junaedi',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      # {name: 'Dhanny Setiawan',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      # {name: 'Amira Wati',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      # {name: 'Aris Gunayarti',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      # {name: 'Yenniwarti Rafsyam',jam_mulai: '10:00',jam_selesai: '12:00'},
 #                   ])
 
 
 Undangan.create([
-                      {name: 'Muhammad Syaefudin Junaedi',jam_mulai: '10:00',jam_selesai: '12:00'},
-                      {name: 'Dhanny Setiawan',jam_mulai: '10:00',jam_selesai: '12:00'},
-                      {name: 'Amira Wati',jam_mulai: '10:00',jam_selesai: '12:00'},
-                      {name: 'Aris Gunayarti',jam_mulai: '10:00',jam_selesai: '12:00'},
-                      {name: 'Yenniwarti Rafsyam',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      {name: 'Bapak/Ibu Adnan',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Majelis Taklim Renungan Qolbu',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Pakde Narmo dan Keluarga',jam_mulai: '10:00',jam_selesai: '11:30'}
                     ])
