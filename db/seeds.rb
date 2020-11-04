@@ -257,11 +257,12 @@
                       # {name: 'Amira Wati',jam_mulai: '10:00',jam_selesai: '12:00'},
                       # {name: 'Aris Gunayarti',jam_mulai: '10:00',jam_selesai: '12:00'},
                       # {name: 'Yenniwarti Rafsyam',jam_mulai: '10:00',jam_selesai: '12:00'},
+                      # {name: 'Bapak/Ibu Adnan',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      # {name: 'Majelis Taklim Renungan Qolbu',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      # {name: 'Pakde Narmo dan Keluarga',jam_mulai: '10:00',jam_selesai: '11:30'}
 #                   ])
 
 
 Undangan.create([
-                      {name: 'Bapak/Ibu Adnan',jam_mulai: '10:00',jam_selesai: '11:30'},
-                      {name: 'Majelis Taklim Renungan Qolbu',jam_mulai: '10:00',jam_selesai: '11:30'},
-                      {name: 'Pakde Narmo dan Keluarga',jam_mulai: '10:00',jam_selesai: '11:30'}
+                      {name: 'Randi Dwi Hartoko',jam_mulai: '10:00',jam_selesai: '11:30'}
                     ])
