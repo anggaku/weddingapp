@@ -264,5 +264,13 @@
 
 
 Undangan.create([
-                      {name: 'Randi Dwi Hartoko',jam_mulai: '10:00',jam_selesai: '11:30'}
+                      {name: 'Bapak/Ibu Budi',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Ikrom',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Sudarsono/Lis',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Chick Mart',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Bapak/Ibu Hendra',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Ongols',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Abdul Syukur Bakri',jam_mulai: '10:00',jam_selesai: '11:30'},
+                      {name: 'Temen Ono',jam_mulai: '11:30',jam_selesai: '13:00'},
+                      {name: 'Bapak/Ibu Hendri Sutanto',jam_mulai: '10:00',jam_selesai: '11:30'}
                     ])
